@@ -58,7 +58,7 @@ User Experience in Design - University of Minnesota | Cognitive Psychology - Uni
 * Monitored mouse and keyboard activity including but not limited to heat maps, hot spots
 * Live viewing of participants computer/mobile screen during testing to be engaged with the user's experiences
 
-**UX Y'all Conference Attendee 
+**UX Y'all Conference Attendee** 
 
 User experience conference dedicated to learning and developing better design systems. 
 
