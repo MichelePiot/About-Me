@@ -40,13 +40,17 @@ UX Planet| Nielsen Norman Group | UX Matters | Adobe XD Youtube | UX Stack Excha
 
 ### Massive Online Open Courses
 
+Online academic courses taken during self-learning. 
+
 The Web Developer Bootcamp - Udemy | Introduction to User Experience - Edx | User Experience Design: From Concept to Wireframe - Edx | CS50's Introduction to Computer Science - Edx | Human-Computer Interaction - Udacity
 
 #### Relevant Coursework
 
+Relevant coursework completed while attending university.
+
 User Experience in Design - University of Minnesota | Cognitive Psychology - University of Minnesota | Web Design and Development - University of Minnesota
 
-#### Extracirriculars
+### Extracirriculars
 
 **Univeristy of Minnesota Usability Lab**
 
