@@ -34,6 +34,32 @@ A/B testing | Card sorting | Concept mapping | Desirability testing | Empathy ma
 
 Adobe XD | Axure | CSS | Dreamweaver | Figma | FluidUI | HTML | Optimal Workshop | Photoshop
 
+### Learning Resources
+
+UX Planet| Nielsen Norman Group | UX Matters | Adobe XD Youtube | UX Stack Exchange | Dribbble | Behance | Usability.gov
+
+### Massive Online Open Courses
+
+The Web Developer Bootcamp - Udemy | Introduction to User Experience - Edx | User Experience Design: From Concept to Wireframe - Edx | CS50's Introduction to Computer Science - Edx | Human-Computer Interaction - Udacity
+
+#### Relevant Coursework
+
+User Experience in Design - University of Minnesota | Cognitive Psychology - University of Minnesota | Web Design and Development - University of Minnesota
+
+#### Extracirriculars
+
+**Univeristy of Minnesota Usability Lab**
+
+* Tracking eye movement and facial expressions while in testing sessions
+* Monitored mouse and keyboard activity including but not limited to heat maps, hot spots
+* Live viewing of participants computer/mobile screen during testing to be engaged with the user's experiences
+
+**UX Y'all Conference Attendee 
+
+User experience conference dedicated to learning and developing better design systems. 
+
+**University of Minnesota Alumini Association Member 2018 to present**
+
 ## Contact Information
 
 piotrowicz.michele@gmail.com
