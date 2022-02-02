@@ -19,6 +19,6 @@ Adobe XD | Axure | CSS | Dreamweaver | Figma | FluidUI | HTML | Optimal Workshop
 
 piotrowicz.michele@gmail.com
 
-Find me on Linkedin
+Find me on [LinkedIn](https://www.linkedin.com/in/michelepiot/).
 
 
