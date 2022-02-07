@@ -80,6 +80,8 @@ Find me on [LinkedIn](https://www.linkedin.com/in/michelepiot/).
 
 ## Experience
 
+Download my [resume](
+
 #### Freelance User Experience Designer
 
 *Remote, August 2019 to Present*
