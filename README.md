@@ -1,10 +1,12 @@
 # Hey there, I'm Michele.
 
+  
+
+## As a designer
+
 **I believe good design comes from more than just design.**
 
-I am a user experience designer and user researcher with a background in psychology. By combining a psychological background we can begin to understand those around us, what drives us, and how to implement what makes us human into good design. 
-
-Design then collaborates with empathy, understanding, and a sense of putting ourselves in others' shoes. It becomes more than just design; it becomes a story, a journey, and an experience. 
+By combining a psychological background we can begin to understand those around us, what drives us, and how to implement what makes us human into good design. Design then collaborates with empathy, understanding, and a sense of putting ourselves in others' shoes. It becomes more than just design; it becomes a story, a journey, and an experience. 
 
 ## Design Process
 
