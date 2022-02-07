@@ -80,7 +80,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/michelepiot/).
 
 ## Experience
 
-Download my [resume](
+Downloadable [resume](https://github.com/MichelePiot/About-Me/blob/main/Piotrowicz.Michele_Resume.pdf).
 
 #### Freelance User Experience Designer
 
