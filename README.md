@@ -1,6 +1,6 @@
 # Hey there, I'm Michele.
 
-  
+I am a University of Minnesota Alumna with a background in psychology and a passion to create. 
 
 ## As a designer
 
