@@ -102,7 +102,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/michelepiot/).
 
 #### Assistant Teacher
 
-*Augsburg Park Montessori School, Richfield, MN, March 2019 to May 2019
+*Augsburg Park Montessori School, Richfield, MN, March 2019 to May 2019*
 
 * Supervision of daily extended care while maintaining the school's values and positive environment for children.
 * Supervised and supported pre-K and elementary-aged children during various daily activities including classroom, nap, and outside time.
@@ -113,7 +113,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/michelepiot/).
 
 #### Lead Teacher
 
-*Tech Tac Toe STEM Camp, Minneapolis-St. Paul Area, MN, May 2018 to August 2018
+*Tech Tac Toe STEM Camp, Minneapolis-St. Paul Area, MN, May 2018 to August 2018*
 
 * Lead and instructed a STEM-based summer camp
 * Students were encouraged to design their own improvements and modifications to instructed projects to facilitate original thinking and add improvements based on their needs or their user's needs
@@ -121,14 +121,14 @@ Find me on [LinkedIn](https://www.linkedin.com/in/michelepiot/).
 
 #### Lead Preschool Teacher
 
-*PattyCake Preschool, Minneapolis, MN, May 2017 to August 2017
+*PattyCake Preschool, Minneapolis, MN, May 2017 to August 2017*
 
 * Lead and instructed a preschool classroom which included management of daily schedule, activities, growth, and social interactions of preschool-aged children.
 * Collaborated alongside assistant teachers to provide the best education possible, which included meetings, communication of growth and behaviors, and implementation of daily schedules.
 
 #### Student Particpant 
 
-*University of Minnesota Usability Lab, Minneapolis, MN, January 2017 to May 2017
+*University of Minnesota Usability Lab, Minneapolis, MN, January 2017 to May 2017*
 
 * Tracked eye movement and facial expressions while in testing sessions
 * Monitored mouse and keyboard activity including but not limited to heat maps, hot spots
